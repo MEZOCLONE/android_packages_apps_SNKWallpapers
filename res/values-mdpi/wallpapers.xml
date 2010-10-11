@@ -17,7 +17,7 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_SnkBitten</item>
+        <item>wallpaper_snkbitten</item>
         <item>wallpaper_abstract_glow</item>
         <item>wallpaper_android_3d</item>
         <item>wallpaper_blue</item>
